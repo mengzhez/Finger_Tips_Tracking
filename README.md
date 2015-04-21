@@ -1,4 +1,4 @@
-# Finger_Tips_Tracking
+# Finger Tips Tracking
 Final Project for ME 556X (Machine Vision)
 
 <b>Software:</b> C++, OpenCV, Visual Studio 2010
